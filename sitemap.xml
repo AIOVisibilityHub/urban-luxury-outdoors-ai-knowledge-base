@@ -1,2 +1,31 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/about.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/contact.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/faqs.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/help.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/index.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/services.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AIOVisibilityHub.github.io/urban-luxury-outdoors-ai-knowledge-base/testimonials.html</loc>
+    <lastmod>2026-01-30T00:38:43Z</lastmod>
+  </url>
+</urlset>
